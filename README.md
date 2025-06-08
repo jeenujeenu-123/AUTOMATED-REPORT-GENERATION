@@ -1,10 +1,15 @@
 # Automated Report Generation
 
-## Name: Shaik Burujula Jeevanbi
-- **Company**: CODTECH IT SOLUTIONS  
-- **ID**: CTO6DL935  
-- **Domain**: PYTHON PROGRAMMING  
+- **Company**: CODTECH IT SOLUTIONS
+
+- **Name**: Shaik Burujula Jeevanbi
+  
+- **ID**: CTO6DL935
+-  
+- **Domain**: PYTHON PROGRAMMING
+-  
 - **Duration**:may 5th,2025 to june 20th,2025[6 weeks]
+- 
 - **Mentor**:Neela Santhosh
 ---
 
