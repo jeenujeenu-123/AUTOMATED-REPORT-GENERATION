@@ -4,13 +4,8 @@
 - **Company**: CODTECH IT SOLUTIONS  
 - **ID**: CTO6DL935  
 - **Domain**: PYTHON PROGRAMMING  
-- **Duration**:may 5th,2025 to june 20th,2025 
----
-
-## Overview of the Project
-This project is focused on creating an automated report generation script using Python. It reads data from a CSV file, performs basic data analysis, and generates a well-formatted PDF report using the **ReportLab** library. 
-
-![result Image](result.png)
+- **Duration**:may 5th,2025 to june 20th,2025[6 weeks]
+- **Mentor**:Neela Santhosh
 ---
 
 ## TASK - 1 - Automated Report Generation
@@ -89,9 +84,10 @@ The objective of this task is to:
 
 ---
 
-## Contact
-For any questions or feedback, feel free to reach out to:
+## Output
+This project is focused on creating an automated report generation script using Python. It reads data from a CSV file, performs basic data analysis, and generates a well-formatted PDF report using the **ReportLab** library. 
 
-- **Name**:Shaik Burujula Jeevanbi
-- **Company**: CODTECH IT SOLUTIONS  
-- **Email**: tommyjaan1@gmail.com  
+![result Image](result.png)
+
+---
+
