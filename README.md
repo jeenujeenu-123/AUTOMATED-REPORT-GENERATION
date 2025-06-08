@@ -1,18 +1,18 @@
 # Automated Report Generation
-- **Name**: Shaik Burujula Jeevanbi
+ **Name**: Shaik Burujula Jeevanbi
 
-- **Company**: CODTECH IT SOLUTIONS
+ **Company**: CODTECH IT SOLUTIONS
    
-- **ID**: CTO6DL935
+ **ID**: CTO6DL935
   
-- **Domain**: PYTHON PROGRAMMING
+ **Domain**: PYTHON PROGRAMMING
   
-- **Duration**:may 5th,2025 to june 20th,2025[6 weeks]
+**Duration**:may 5th,2025 to june 20th,2025[6 weeks]
   
-- **Mentor**:Neela Santhosh
+ **Mentor**:Neela Santhosh
 ---
 
-## TASK - 1 - Automated Report Generation
+## TASK - Automated Report Generation
 
 ### Objective
 The objective of this task is to:
